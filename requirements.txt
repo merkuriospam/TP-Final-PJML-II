@@ -9,3 +9,4 @@ plotly
 ipython
 keras_preprocessing    
 ipykernel
+scikit-learn
